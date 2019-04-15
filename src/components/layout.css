@@ -62,3 +62,7 @@ footer a {
 footer a:hover {
   color: var(--mainYellow);
 }
+
+.menu, .contact {
+  background: var(--mainGrey);
+}
